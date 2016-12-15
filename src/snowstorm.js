@@ -23,7 +23,6 @@ export default function snowStorm(userOptions) {
     animationInterval : 33,
     useGPU : true,
     className : '___snowStorm___',
-    excludeMobile : true,
     flakeBottom : null,
     followMouse : true,
     snowColor : '#fff',
